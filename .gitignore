@@ -1,0 +1,9 @@
+.vscode
+!.vscode/tasks.js
+.DS_Store
+build/
+coverage
+logs
+*.log
+npm-debug.log*
+node_modules/
